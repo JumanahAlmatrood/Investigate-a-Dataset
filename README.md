@@ -1,5 +1,7 @@
 # Investigate a Dataset (TMDb Movies Analysis)
 
+> This project was completed as part of **Udacity’s Data Analyst Nanodegree Program**.
+
 ## Project Overview
 This project is part of the Udacity Data Analyst Nanodegree. It focuses on applying the complete data analysis process on the TMDb Movies Dataset, which contains information about thousands of movies such as titles, budgets, revenues, release years, popularity, and ratings. The main goal of this project is to practice data wrangling, cleaning, exploration, visualization, and extracting meaningful insights to answer analytical questions.
 
@@ -41,7 +43,7 @@ Visualization was an essential part of this project to clearly show patterns and
 - Bar charts to compare average revenue or rating by genre and release year.
 - Line plots to illustrate trends over time.
 
-These visualizations were created using **Matplotlib** and **Seaborn** libraries and exported as an interactive HTML report (`Investigate_a_Dataset.html`).
+These visualizations were created using **Matplotlib** and **Seaborn** libraries and displayed within the Jupyter Notebook (`Investigate_a_Dataset.ipynb`).
 
 ### 4. Findings and Insights
 From the analysis, several key insights were identified:
@@ -61,10 +63,9 @@ From the analysis, several key insights were identified:
 - Jupyter Notebook  
 - Pandas and NumPy for data manipulation  
 - Matplotlib and Seaborn for visualization  
-- HTML Export for the final project report
 
 ## How to View the Report
-To view the full project report, open the file named **`Investigate_a_Dataset.html`** in any web browser such as Chrome, Edge, or Safari.  
+To view the full project analysis, open the file named **`Investigate_a_Dataset.ipynb`** using Jupyter Notebook or any compatible viewer.  
 This file contains all the visualizations, code, and analysis explanations in an interactive format.
 
 ## Project Outcome
