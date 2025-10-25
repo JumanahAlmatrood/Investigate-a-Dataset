@@ -64,9 +64,7 @@ From the analysis, several key insights were identified:
 - Pandas and NumPy for data manipulation  
 - Matplotlib and Seaborn for visualization  
 
-## How to View the Report
-To view the full project analysis, open the file named **`Investigate_a_Dataset.ipynb`** using Jupyter Notebook or any compatible viewer.  
-This file contains all the visualizations, code, and analysis explanations in an interactive format.
+
 
 ## Project Outcome
 This project demonstrates a complete data analysis workflow, from raw dataset to cleaned, visualized insights.  
