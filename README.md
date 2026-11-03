@@ -1,6 +1,8 @@
 # Investigate a Dataset: Medical Appointment No-Shows
 
-This project was completed as part of Udacity's Data Analyst Nanodegree. It uses data from about 100,000 medical appointments in Brazil to look at which factors are linked to patients missing appointments.
+> **Udacity Data Analyst Nanodegree project.** The other projects from this program are [Communicate Data Findings](https://github.com/JumanahAlmatrood/Communicate-Data-Findings) and [Data Wrangling](https://github.com/JumanahAlmatrood/Data-Wrangling-Project).
+
+This project uses data from about 100,000 medical appointments in Brazil to look at which factors are linked to patients missing appointments.
 
 The analysis is in [`Investigate_a_Dataset.ipynb`](Investigate_a_Dataset.ipynb). The appointments dataset is not included in this repository.
 
